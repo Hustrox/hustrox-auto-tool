@@ -39,4 +39,4 @@ Eğer tüm programları indirmek istemiyorsanız 2. seçeneği kullanıp indiril
 
 **Toolları İndirdikten Sonra**
 
-<img src="https://github.com/wolkann/termux-tools/blob/main/imgs/indirme_sonras%C4%B1.jpg" width="600" height="750">
+<img src="https://i.hizliresim.com/iacxsjv.jpg" width="600" height="750">
