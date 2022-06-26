@@ -23,12 +23,12 @@ Yazarak çalıştırabilirsiniz ve karşınıza gelen başlıklardaki numaralar�
 
 **Arayüz**
 
-<img src="https://i.hizliresim.com/16rwttc." width="500" height="300">
+<img src="https://i.hizliresim.com/16rwttc." width="425" height="557">
 
 
 **Programları İndir**
 
-<img src="https://github.com/wolkann/termux-tools/blob/main/imgs/indirilecek_olan_programlar.jpeg" width="500" height="500">
+<img src="https://i.hizliresim.com/ha9d9ef.png" width="632" height="911">
 
 
 **İndirilecek Olan Programlar**
