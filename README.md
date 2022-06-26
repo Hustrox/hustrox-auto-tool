@@ -28,7 +28,7 @@ Yazarak çalıştırabilirsiniz ve karşınıza gelen başlıklardaki numaralar�
 
 **Programları İndir**
 
-<img src="https://i.hizliresim.com/ha9d9ef.png" width="632" height="911">
+<img src="https://i.hizliresim.com/biz08tu.png" width="539x426" height="911">
 
 
 **İndirilecek Olan Programlar**
