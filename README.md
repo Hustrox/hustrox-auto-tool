@@ -9,7 +9,7 @@ Bu program sizlere siber güvenlikte en çok kullanılan 354 adet tool'u tek tu�
 
 `git clone https://github.com/Hustrox/hustrox-auto-tool.git`
 
-`cd termux-tools`
+`cd hustrox-auto-tool`
 
 `chmod +x termux-tools.py`
 
