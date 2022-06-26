@@ -23,7 +23,7 @@ Yazarak çalıştırabilirsiniz ve karşınıza gelen başlıklardaki numaralar�
 
 **Arayüz**
 
-<img src="https://github.com/wolkann/termux-tools/blob/main/imgs/arayuz.jpeg" width="500" height="300">
+<img src="https://i.hizliresim.com/16rwttc." width="500" height="300">
 
 
 **Programları İndir**
